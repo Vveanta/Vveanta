@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently pursuing **Masters in Computer Science from University of Florida**
 - 👀 I’m interested in Data Science and Machine Learning
-- 💻 I’m looking for intenrships related to Data Science/ Machine Learning/ Software Developer
+- 💻 I’m looking for Full Time roles related to Data Science/ Machine Learning/ Software Developer
 - 📫 How to reach me **maheshwariv@ufl.edu**
 - 👨‍💻 All of my projects are available at [https://vedanshmaheshwari.me/](https://vedanshmaheshwari.me/)
 - 📄 Know about my experiences [https://vedanshmaheshwari.me/resume](https://vedanshmaheshwari.me/resume)
