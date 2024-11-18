@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vedansh Maheshwari</h1>
+<h1 align="center">Hi 👋, I'm Vedansh Maheshwari (Vveanta)</h1>
 <h3 align="center">A passionate software Engineer Machine Learning Engineer from India</h3>
 
 - 🌱 I’m currently pursuing **Masters in Computer Science from University of Florida**
