@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedansh Maheshwari (Vveanta)</h1>
 <h3 align="center">A passionate software Engineer Machine Learning Engineer from India</h3>
 
-- 🌱 I’m recently completed **Masters in Computer Science from University of Florida**
+- 🌱 I recently completed **Masters in Computer Science from University of Florida**
 - 👀 I’m interested in Data Science and Machine Learning
 - 💻 I’m looking for Full Time roles related to Data Science/ Machine Learning/ Software Developer
 - 📫 How to reach me **vedanshmahe@gmail.com**
